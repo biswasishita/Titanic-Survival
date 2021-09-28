@@ -13,11 +13,11 @@
   </a>
   </p>
 
-  > This dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines, regressions.
+  > In this project, we will explore the training dataset (train) of this incident. This dataset contains demographic and passenger information about 891 of the 2224 passengers and crew abroad. The most interesting question here is what features made people more likely to survive the sinking. Based on the available feature information can we build a classification algorithm that can reasonably predict survival. 
   ## NOTEBOOK PREVIEW
 
 <p align="center">
-  <img src="1.png" alt="accessibility text">
+  <img src="2.png" alt="accessibility text">
 
 </p>
 
@@ -76,7 +76,7 @@ This project is [MIT](none) licensed.
 ## MIT License 
 
 ```
-Copyright (c) 2021 Ishita Biswas
+Copyright (c) 2021 ISHITA BISWAS
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
